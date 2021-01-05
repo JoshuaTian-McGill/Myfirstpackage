@@ -1,0 +1,9 @@
+Package: Myfirstpackage
+Title: Try out package building
+Description: Try out package building
+Version: 0.1
+Author: Joshua Tian
+Depends: R (>= 3.0.2)
+License: MIT
+LazyData: true
+RoxygenNote: 7.1.1
